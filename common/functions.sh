@@ -15,9 +15,9 @@ abort() {
 cleanup() {
   rm -rf $MODPATH/common 2>/dev/null
   ui_print " "
-  ui_print "    **************************************"
-  ui_print "    *   MMT Extended by Zackptg5 @ XDA   *"
-  ui_print "    **************************************"
+  ui_print "    *************************************"
+  ui_print "    *  Joyeuse Camera Fix by QuantMint  *"
+  ui_print "    *************************************"
   ui_print " "
 }
 
@@ -233,4 +233,5 @@ fi
 set_permissions
 
 # Complete install
+ui_print "Installation successful."
 cleanup

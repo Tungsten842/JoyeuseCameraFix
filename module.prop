@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.5
-versionCode=6
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=JoyeuseCamFix
+name=Joyeuse camera fix on curtana's roms
+version=1.0
+versionCode=1
+author=QuantMint
+description=This module fixes the camera when you install a curtana's rom on a joyeuse.
